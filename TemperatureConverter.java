@@ -39,7 +39,7 @@ public class TemperatureConverter {
         System.out.println("\nSelect source unit:");
         System.out.println("  1. Celsius (°C)");
         System.out.println("  2. Fahrenheit (°F)");
-        System.out.println("  3. Kelvin (k)");
+        System.out.println("  3. Kelvin (K)");
         System.out.print("\nEnter choice (1-3): ");
  
         int choice = scanner.nextInt();
